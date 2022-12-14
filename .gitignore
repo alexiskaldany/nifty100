@@ -131,3 +131,6 @@ data/update.py
 data/sp500_companies.csv
 data/sp500_index.csv
 data/sp500_stocks.csv
+experiments/data/sp500_companies.csv
+experiments/data/sp500_index.csv
+experiments/data/sp500_stocks.csv
