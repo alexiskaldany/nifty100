@@ -17,3 +17,16 @@ For each model build a pipeline for:
 
 ## Nomenclature
 
+
+
+
+# Preprocessing
+
+## Scaling
+
+Sometimes values in the data are very large or otherwise far away from the initial parameter values. Using a MinMaxScaler from sk-learn can get the values closer to zero. A small pain converting values back to their original values but definitely worthwhile. 
+
+
+# Models
+
+## LSTM
